@@ -1,2 +1,2 @@
 # Solar_Tracker_Embedded
-Solar-Tracker-Embedded
+햇빛 방향 추적 태양광 모듈
