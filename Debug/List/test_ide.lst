@@ -1,0 +1,45 @@
+###############################################################################
+#
+# IAR ANSI C/C++ Compiler V8.22.1.15669/W32 for ARM       06/Nov/2025  18:56:25
+# Copyright 1999-2018 IAR Systems AB.
+#
+#    Cpu mode     =  thumb
+#    Endian       =  little
+#    Source file  =  C:\Users\pnu6\Documents\week06\user\test_ide.c
+#    Command line =  
+#        -f C:\Users\pnu6\AppData\Local\Temp\EW6698.tmp
+#        (C:\Users\pnu6\Documents\week06\user\test_ide.c -D
+#        USE_STDPERIPH_DRIVER -D STM32F10X_CL -lC
+#        C:\Users\pnu6\Documents\week06\Debug\List -o
+#        C:\Users\pnu6\Documents\week06\Debug\Obj --no_cse --no_unroll
+#        --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling
+#        --debug --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config
+#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.0\arm\INC\c\DLib_Config_Normal.h" -I
+#        C:\Users\pnu6\Documents\week06\libraries\CMSIS\DeviceSupport\ -I
+#        C:\Users\pnu6\Documents\week06\libraries\CMSIS\DeviceSupport\Startup\
+#        -I
+#        C:\Users\pnu6\Documents\week06\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc\
+#        -I
+#        C:\Users\pnu6\Documents\week06\libraries\STM32F10x_StdPeriph_Driver_v3.5\src\
+#        -I C:\Users\pnu6\Documents\week06\libraries\LCD\ -I
+#        C:\Users\pnu6\Documents\week06\user\ -I
+#        C:\Users\pnu6\Documents\week06\user\inc\ -Ol -I "C:\Program Files
+#        (x86)\IAR Systems\Embedded Workbench 8.0\arm\CMSIS\Core\Include\" -I
+#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.0\arm\CMSIS\DSP\Include\")
+#    Locale       =  C
+#    List file    =  C:\Users\pnu6\Documents\week06\Debug\List\test_ide.lst
+#    Object file  =  C:\Users\pnu6\Documents\week06\Debug\Obj\test_ide.o
+#
+###############################################################################
+
+
+
+ 
+
+ 
+
+
+Errors: none
+Warnings: none
